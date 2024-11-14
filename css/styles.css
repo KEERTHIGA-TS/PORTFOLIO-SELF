@@ -1,0 +1,29 @@
+
+*{
+  font-family: "Funnel Sans", sans-serif;
+  
+}
+.banner{
+    background-image: url(/portfolio/images/istockphoto-1336271758-612x612.webp);
+    padding: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bannerText{
+    color: aliceblue;
+}
+.profile-size{
+    width:500px;
+    height:600px;
+}
+.skills-img-size{
+    width:72px;
+    height:80px;
+}
+.certificate-img-size{
+    height:215px;
+}
+.icon-size{
+    width:40px;
+    height: 40px;
+}
